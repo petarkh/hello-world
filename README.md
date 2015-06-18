@@ -1,2 +1,3 @@
 # hello-world
-my first GitHub repo
+My first GitHub repository.
+Tested branching as well...
